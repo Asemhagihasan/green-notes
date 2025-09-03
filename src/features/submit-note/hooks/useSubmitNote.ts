@@ -59,7 +59,7 @@ export const useSubmitNote = () => {
   };
 
   const onReset = () => {
-    setTrackingCode(" ");
+    setTrackingCode("");
     form.reset();
   };
 
