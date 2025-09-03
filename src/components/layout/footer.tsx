@@ -26,7 +26,7 @@ const Footer = () => {
           ))}
         </div>
         <div className="mt-6 pt-6 border-t border-border text-center text-sm text-muted-foreground">
-          <p>© 2024 الملاحظات الشخصية. جميع الحقوق محفوظة.</p>
+          <p>© 2025 الملاحظات الشخصية. جميع الحقوق محفوظة.</p>
         </div>
       </div>
     </footer>
